@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# this is mayur edited file 
+
+
 
  <<info
 This shell script will take periodic backups
